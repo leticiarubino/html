@@ -1,0 +1,11 @@
+#total {
+    width: 980px;
+    height: auto;
+    margin:auto
+}
+
+#topo {
+     width: 980px;
+     height: 100px;
+     background-color:blueviolet;
+}
